@@ -1,0 +1,501 @@
+﻿Claim_ID,Patient_Age,Gender,Insurance_Provider,Plan_Type,Service_Type,Claim_Amount,Approved_Amount,Denial_Status,Denial_Reason,Submission_Date,Decision_Date,Days_to_Decision
+1000,56,F,Anthem,PPO,Preventive,657.58,657.58,Approved,None,3/13/2025,3/27/2025,14
+1001,38,F,Aetna,HMO,Restorative,209.21,209.21,Approved,None,3/16/2025,3/28/2025,12
+1002,41,F,MetLife,PPO,Preventive,333.6,333.6,Approved,None,1/3/2025,1/10/2025,7
+1003,70,F,Anthem,HMO,Preventive,778.94,0,Denied,Coverage Expired,2/7/2025,2/10/2025,3
+1004,77,F,MetLife,HMO,Restorative,228.38,228.38,Approved,None,1/22/2025,2/5/2025,14
+1005,61,M,Aetna,PPO,Restorative,116.14,116.14,Approved,None,2/11/2025,2/24/2025,13
+1006,77,M,Anthem,HMO,Restorative,356.45,356.45,Approved,None,2/16/2025,2/20/2025,4
+1007,61,M,United Healthcare,PPO,Preventive,459.96,459.96,Approved,None,1/3/2025,1/9/2025,6
+1008,68,F,United Healthcare,HMO,Preventive,576.22,576.22,Approved,None,1/18/2025,1/23/2025,5
+1009,42,M,Anthem,PPO,Diagnostic,775.94,0,Denied,Coverage Expired,1/9/2025,1/20/2025,11
+1010,70,M,Anthem,PPO,Restorative,261.63,261.63,Approved,None,3/1/2025,3/9/2025,8
+1011,61,F,Humana,HMO,Restorative,446.62,446.62,Approved,None,3/19/2025,3/21/2025,2
+1012,53,M,Delta Dental,PPO,Restorative,227.57,0,Denied,Missing Documentation,1/6/2025,1/13/2025,7
+1013,59,F,Anthem,HMO,Diagnostic,497.39,497.39,Approved,None,1/18/2025,1/29/2025,11
+1014,61,F,Aetna,HMO,Diagnostic,757.65,0,Denied,Authorization Required,1/14/2025,1/23/2025,9
+1015,31,M,Delta Dental,PPO,Preventive,237.19,237.19,Approved,None,2/9/2025,2/15/2025,6
+1016,33,M,United Healthcare,HMO,Restorative,623.12,623.12,Approved,None,1/24/2025,2/4/2025,11
+1017,42,M,Delta Dental,HMO,Restorative,296.65,296.65,Approved,None,2/10/2025,2/24/2025,14
+1018,32,F,MetLife,HMO,Preventive,215.69,215.69,Approved,None,1/9/2025,1/18/2025,9
+1019,18,M,Humana,PPO,Restorative,239.1,239.1,Approved,None,1/11/2025,1/15/2025,4
+1020,34,F,Delta Dental,PPO,Preventive,597.94,0,Denied,Missing Documentation,1/5/2025,1/16/2025,11
+1021,56,F,United Healthcare,PPO,Diagnostic,555.75,0,Denied,Eligibility Issue,3/14/2025,3/23/2025,9
+1022,29,F,MetLife,PPO,Preventive,331.63,331.63,Approved,None,1/23/2025,2/1/2025,9
+1023,54,M,Humana,PPO,Preventive,610.72,610.72,Approved,None,2/4/2025,2/6/2025,2
+1024,52,M,Aetna,HMO,Restorative,183.72,0,Denied,Coverage Expired,1/1/2025,1/7/2025,6
+1025,43,M,Delta Dental,PPO,Restorative,265.19,265.19,Approved,None,1/27/2025,2/6/2025,10
+1026,32,M,United Healthcare,HMO,Preventive,399.28,399.28,Approved,None,3/18/2025,3/22/2025,4
+1027,49,M,Anthem,HMO,Preventive,545.49,545.49,Approved,None,1/4/2025,1/10/2025,6
+1028,40,F,Delta Dental,HMO,Restorative,523.09,523.09,Approved,None,1/29/2025,2/3/2025,5
+1029,30,M,MetLife,HMO,Diagnostic,153.89,153.89,Approved,None,3/27/2025,4/9/2025,13
+1030,19,M,MetLife,PPO,Restorative,537.05,537.05,Approved,None,1/6/2025,1/19/2025,13
+1031,45,M,MetLife,HMO,Restorative,252.91,252.91,Approved,None,3/3/2025,3/15/2025,12
+1032,75,F,Delta Dental,PPO,Restorative,185.46,185.46,Approved,None,3/3/2025,3/5/2025,2
+1033,18,M,Anthem,PPO,Diagnostic,259.55,259.55,Approved,None,3/18/2025,3/28/2025,10
+1034,20,F,Humana,HMO,Restorative,104.87,104.87,Approved,None,1/9/2025,1/15/2025,6
+1035,50,M,MetLife,HMO,Restorative,183.91,183.91,Approved,None,3/20/2025,4/1/2025,12
+1036,71,F,Delta Dental,PPO,Restorative,253.13,253.13,Approved,None,2/21/2025,2/23/2025,2
+1037,79,F,Aetna,PPO,Preventive,780.25,0,Denied,Coverage Expired,2/8/2025,2/11/2025,3
+1038,20,F,MetLife,PPO,Diagnostic,310.61,310.61,Approved,None,3/22/2025,4/3/2025,12
+1039,66,F,Anthem,PPO,Diagnostic,783.63,783.63,Approved,None,3/28/2025,4/3/2025,6
+1040,49,F,Anthem,HMO,Restorative,735.79,735.79,Approved,None,1/2/2025,1/8/2025,6
+1041,61,F,Anthem,PPO,Preventive,413.45,413.45,Approved,None,3/9/2025,3/17/2025,8
+1042,28,F,Aetna,PPO,Restorative,358.76,358.76,Approved,None,2/7/2025,2/16/2025,9
+1043,22,F,United Healthcare,PPO,Preventive,542.61,542.61,Approved,None,1/11/2025,1/13/2025,2
+1044,26,F,Delta Dental,PPO,Diagnostic,324.55,324.55,Approved,None,1/3/2025,1/8/2025,5
+1045,77,M,Humana,PPO,Preventive,574.3,574.3,Approved,None,3/8/2025,3/12/2025,4
+1046,37,F,Aetna,HMO,Diagnostic,551.62,551.62,Approved,None,2/2/2025,2/11/2025,9
+1047,56,F,MetLife,HMO,Restorative,755.71,755.71,Approved,None,2/26/2025,3/8/2025,10
+1048,67,F,Anthem,HMO,Restorative,747.29,0,Denied,Eligibility Issue,1/7/2025,1/20/2025,13
+1049,33,F,Anthem,HMO,Diagnostic,672.06,672.06,Approved,None,3/1/2025,3/3/2025,2
+1050,19,F,MetLife,HMO,Diagnostic,797.38,0,Denied,Incorrect Coding,3/10/2025,3/16/2025,6
+1051,49,F,MetLife,HMO,Restorative,543.17,543.17,Approved,None,1/19/2025,1/23/2025,4
+1052,37,M,Aetna,PPO,Diagnostic,720.96,0,Denied,Missing Documentation,1/24/2025,1/29/2025,5
+1053,28,F,Anthem,PPO,Diagnostic,754.94,0,Denied,Incorrect Coding,3/25/2025,3/29/2025,4
+1054,65,M,Humana,HMO,Restorative,171.03,171.03,Approved,None,1/18/2025,1/21/2025,3
+1055,19,F,Anthem,PPO,Restorative,584.33,584.33,Approved,None,2/10/2025,2/15/2025,5
+1056,50,M,Anthem,HMO,Preventive,112.65,112.65,Approved,None,2/17/2025,2/22/2025,5
+1057,73,F,MetLife,PPO,Preventive,554.74,0,Denied,Incorrect Coding,1/17/2025,1/19/2025,2
+1058,65,F,United Healthcare,PPO,Preventive,165.57,165.57,Approved,None,1/22/2025,1/29/2025,7
+1059,55,F,Humana,HMO,Preventive,375.17,0,Denied,Coverage Expired,1/27/2025,2/8/2025,12
+1060,51,F,Anthem,HMO,Preventive,345.05,345.05,Approved,None,3/5/2025,3/7/2025,2
+1061,22,M,Humana,PPO,Preventive,261.13,261.13,Approved,None,1/4/2025,1/8/2025,4
+1062,66,M,Anthem,HMO,Diagnostic,130.52,0,Denied,Eligibility Issue,1/30/2025,2/13/2025,14
+1063,63,M,United Healthcare,PPO,Diagnostic,740.41,740.41,Approved,None,2/6/2025,2/15/2025,9
+1064,46,M,Delta Dental,PPO,Preventive,399.73,0,Denied,Missing Documentation,3/1/2025,3/3/2025,2
+1065,69,M,Aetna,HMO,Restorative,306.11,306.11,Approved,None,3/28/2025,3/30/2025,2
+1066,20,F,Delta Dental,PPO,Preventive,218.64,218.64,Approved,None,2/23/2025,3/6/2025,11
+1067,20,F,MetLife,PPO,Restorative,499.04,499.04,Approved,None,2/1/2025,2/8/2025,7
+1068,40,F,Anthem,HMO,Preventive,198.06,198.06,Approved,None,1/2/2025,1/13/2025,11
+1069,34,F,MetLife,HMO,Restorative,694.07,694.07,Approved,None,2/17/2025,2/25/2025,8
+1070,46,F,Humana,HMO,Restorative,307.56,307.56,Approved,None,2/19/2025,3/1/2025,10
+1071,41,F,MetLife,HMO,Restorative,739.27,739.27,Approved,None,2/26/2025,3/3/2025,5
+1072,62,F,Humana,PPO,Diagnostic,235.99,235.99,Approved,None,1/16/2025,1/29/2025,13
+1073,68,F,Delta Dental,PPO,Preventive,336.6,336.6,Approved,None,3/7/2025,3/15/2025,8
+1074,39,M,Humana,HMO,Restorative,329.71,329.71,Approved,None,3/3/2025,3/17/2025,14
+1075,39,M,Humana,PPO,Preventive,513.58,513.58,Approved,None,2/21/2025,3/4/2025,11
+1076,23,F,Humana,HMO,Preventive,312.29,312.29,Approved,None,1/8/2025,1/14/2025,6
+1077,77,F,MetLife,PPO,Preventive,251.07,251.07,Approved,None,3/9/2025,3/16/2025,7
+1078,62,M,Anthem,HMO,Diagnostic,236.07,236.07,Approved,None,2/24/2025,3/5/2025,9
+1079,69,M,Aetna,PPO,Restorative,192.92,0,Denied,Authorization Required,1/30/2025,2/3/2025,4
+1080,34,F,Delta Dental,PPO,Restorative,379.17,379.17,Approved,None,2/27/2025,3/7/2025,8
+1081,43,F,Aetna,PPO,Preventive,117.75,0,Denied,Eligibility Issue,1/23/2025,2/2/2025,10
+1082,29,F,United Healthcare,PPO,Restorative,386.27,386.27,Approved,None,1/1/2025,1/4/2025,3
+1083,49,F,Delta Dental,PPO,Preventive,484.46,0,Denied,Authorization Required,1/1/2025,1/15/2025,14
+1084,56,M,United Healthcare,HMO,Preventive,559.98,559.98,Approved,None,3/8/2025,3/21/2025,13
+1085,43,M,United Healthcare,HMO,Preventive,349.18,0,Denied,Authorization Required,2/26/2025,3/12/2025,14
+1086,31,F,Delta Dental,PPO,Preventive,164.26,164.26,Approved,None,3/3/2025,3/8/2025,5
+1087,22,M,MetLife,PPO,Restorative,431.92,431.92,Approved,None,2/17/2025,2/23/2025,6
+1088,56,F,Anthem,HMO,Restorative,342.41,342.41,Approved,None,1/23/2025,2/3/2025,11
+1089,27,F,MetLife,HMO,Diagnostic,764.4,0,Denied,Coverage Expired,2/21/2025,3/4/2025,11
+1090,75,F,Humana,HMO,Preventive,753.41,753.41,Approved,None,3/10/2025,3/24/2025,14
+1091,21,M,United Healthcare,HMO,Diagnostic,531.1,0,Denied,Missing Documentation,1/2/2025,1/4/2025,2
+1092,45,F,Delta Dental,HMO,Diagnostic,510.04,0,Denied,Coverage Expired,1/24/2025,2/6/2025,13
+1093,67,M,MetLife,HMO,Preventive,501.36,501.36,Approved,None,3/2/2025,3/6/2025,4
+1094,60,F,Aetna,PPO,Preventive,759.03,759.03,Approved,None,2/2/2025,2/11/2025,9
+1095,27,F,Delta Dental,PPO,Diagnostic,244.68,244.68,Approved,None,1/12/2025,1/15/2025,3
+1096,78,F,United Healthcare,HMO,Restorative,166.11,166.11,Approved,None,3/22/2025,4/2/2025,11
+1097,25,F,Humana,HMO,Diagnostic,369.78,369.78,Approved,None,2/3/2025,2/7/2025,4
+1098,58,F,Aetna,PPO,Diagnostic,447.23,447.23,Approved,None,3/16/2025,3/30/2025,14
+1099,73,M,Aetna,HMO,Preventive,614.55,0,Denied,Missing Documentation,2/5/2025,2/16/2025,11
+1100,54,M,United Healthcare,PPO,Preventive,625.43,0,Denied,Authorization Required,2/18/2025,2/22/2025,4
+1101,65,M,Delta Dental,PPO,Restorative,189.38,189.38,Approved,None,1/24/2025,2/1/2025,8
+1102,79,M,Anthem,HMO,Diagnostic,493.31,493.31,Approved,None,2/24/2025,3/10/2025,14
+1103,40,F,MetLife,PPO,Preventive,628.18,628.18,Approved,None,1/17/2025,1/19/2025,2
+1104,79,F,MetLife,PPO,Diagnostic,447.59,447.59,Approved,None,1/13/2025,1/25/2025,12
+1105,36,M,Humana,HMO,Diagnostic,372.44,372.44,Approved,None,1/19/2025,2/1/2025,13
+1106,26,F,United Healthcare,HMO,Restorative,323.52,0,Denied,Incorrect Coding,2/21/2025,2/25/2025,4
+1107,75,F,MetLife,HMO,Diagnostic,542.29,542.29,Approved,None,1/12/2025,1/22/2025,10
+1108,69,M,Anthem,PPO,Restorative,570.76,0,Denied,Authorization Required,1/23/2025,2/2/2025,10
+1109,56,F,Delta Dental,PPO,Restorative,163.84,163.84,Approved,None,2/8/2025,2/19/2025,11
+1110,22,M,Delta Dental,PPO,Diagnostic,615.92,615.92,Approved,None,3/16/2025,3/19/2025,3
+1111,64,M,Delta Dental,PPO,Restorative,200.09,0,Denied,Missing Documentation,1/17/2025,1/31/2025,14
+1112,55,F,Humana,PPO,Restorative,158.87,0,Denied,Missing Documentation,2/11/2025,2/21/2025,10
+1113,67,M,Humana,HMO,Diagnostic,724.33,724.33,Approved,None,1/29/2025,2/4/2025,6
+1114,55,M,Aetna,PPO,Restorative,790.65,790.65,Approved,None,3/6/2025,3/13/2025,7
+1115,69,M,Humana,PPO,Diagnostic,265.68,0,Denied,Missing Documentation,2/14/2025,2/19/2025,5
+1116,53,M,Delta Dental,HMO,Restorative,363.38,363.38,Approved,None,3/2/2025,3/15/2025,13
+1117,71,F,United Healthcare,PPO,Preventive,593.56,593.56,Approved,None,1/19/2025,1/27/2025,8
+1118,79,F,Delta Dental,PPO,Preventive,444.84,444.84,Approved,None,2/27/2025,3/4/2025,5
+1119,45,F,Aetna,HMO,Preventive,637.04,0,Denied,Missing Documentation,2/8/2025,2/10/2025,2
+1120,20,M,MetLife,HMO,Diagnostic,508.36,0,Denied,Incorrect Coding,3/4/2025,3/17/2025,13
+1121,66,F,Delta Dental,PPO,Diagnostic,158.02,158.02,Approved,None,1/6/2025,1/17/2025,11
+1122,61,M,Aetna,HMO,Restorative,784.53,784.53,Approved,None,2/16/2025,2/22/2025,6
+1123,33,F,Anthem,PPO,Preventive,469.39,0,Denied,Missing Documentation,2/5/2025,2/9/2025,4
+1124,36,M,Anthem,HMO,Preventive,778.51,778.51,Approved,None,2/18/2025,2/20/2025,2
+1125,70,M,Aetna,PPO,Restorative,587.85,587.85,Approved,None,3/28/2025,4/7/2025,10
+1126,28,M,Humana,PPO,Restorative,296.67,0,Denied,Incorrect Coding,3/13/2025,3/20/2025,7
+1127,29,F,Delta Dental,PPO,Diagnostic,174.73,174.73,Approved,None,2/5/2025,2/16/2025,11
+1128,25,M,Aetna,PPO,Restorative,347.35,347.35,Approved,None,2/10/2025,2/15/2025,5
+1129,44,M,Delta Dental,HMO,Diagnostic,588.71,588.71,Approved,None,2/2/2025,2/8/2025,6
+1130,37,M,Anthem,PPO,Preventive,521.95,521.95,Approved,None,1/13/2025,1/17/2025,4
+1131,78,M,United Healthcare,PPO,Restorative,758.37,758.37,Approved,None,3/10/2025,3/20/2025,10
+1132,19,F,Aetna,HMO,Preventive,157.92,0,Denied,Incorrect Coding,1/5/2025,1/13/2025,8
+1133,73,F,Delta Dental,HMO,Preventive,363.52,0,Denied,Incorrect Coding,2/18/2025,3/2/2025,12
+1134,38,M,United Healthcare,PPO,Diagnostic,624.7,624.7,Approved,None,2/28/2025,3/12/2025,12
+1135,66,F,Aetna,PPO,Diagnostic,686.83,686.83,Approved,None,1/1/2025,1/7/2025,6
+1136,65,F,MetLife,PPO,Diagnostic,152.75,152.75,Approved,None,3/10/2025,3/16/2025,6
+1137,55,F,United Healthcare,PPO,Diagnostic,739.22,739.22,Approved,None,2/22/2025,2/28/2025,6
+1138,27,M,MetLife,HMO,Diagnostic,694.75,694.75,Approved,None,3/19/2025,3/29/2025,10
+1139,63,F,United Healthcare,PPO,Diagnostic,276.01,276.01,Approved,None,1/4/2025,1/6/2025,2
+1140,66,F,Humana,PPO,Restorative,629.9,629.9,Approved,None,3/13/2025,3/21/2025,8
+1141,43,M,Delta Dental,HMO,Diagnostic,448.72,448.72,Approved,None,1/3/2025,1/15/2025,12
+1142,67,F,MetLife,HMO,Diagnostic,696.53,696.53,Approved,None,1/5/2025,1/17/2025,12
+1143,74,F,Anthem,PPO,Preventive,512.97,512.97,Approved,None,1/23/2025,1/29/2025,6
+1144,38,M,Aetna,HMO,Diagnostic,547.55,0,Denied,Incorrect Coding,2/7/2025,2/20/2025,13
+1145,51,M,Aetna,PPO,Diagnostic,345.41,345.41,Approved,None,1/30/2025,2/11/2025,12
+1146,68,M,Humana,PPO,Diagnostic,732.91,732.91,Approved,None,2/7/2025,2/9/2025,2
+1147,41,M,Anthem,PPO,Preventive,737.33,737.33,Approved,None,2/20/2025,2/22/2025,2
+1148,22,F,United Healthcare,HMO,Restorative,657.53,657.53,Approved,None,1/17/2025,1/28/2025,11
+1149,34,F,Delta Dental,HMO,Preventive,280.77,280.77,Approved,None,2/3/2025,2/10/2025,7
+1150,70,F,Aetna,HMO,Restorative,343.19,343.19,Approved,None,2/12/2025,2/24/2025,12
+1151,68,F,Aetna,HMO,Diagnostic,476.08,476.08,Approved,None,3/21/2025,4/2/2025,12
+1152,71,F,MetLife,HMO,Diagnostic,588.37,588.37,Approved,None,1/4/2025,1/13/2025,9
+1153,42,M,United Healthcare,HMO,Restorative,727.75,727.75,Approved,None,2/1/2025,2/4/2025,3
+1154,78,F,Aetna,PPO,Preventive,234.6,234.6,Approved,None,1/5/2025,1/8/2025,3
+1155,45,F,United Healthcare,PPO,Diagnostic,343.33,343.33,Approved,None,3/11/2025,3/13/2025,2
+1156,22,F,Anthem,HMO,Preventive,422.55,422.55,Approved,None,2/3/2025,2/5/2025,2
+1157,31,M,Delta Dental,HMO,Restorative,331.07,331.07,Approved,None,1/26/2025,2/5/2025,10
+1158,64,F,United Healthcare,PPO,Restorative,539.53,539.53,Approved,None,3/4/2025,3/18/2025,14
+1159,34,M,Anthem,PPO,Preventive,293.81,0,Denied,Incorrect Coding,2/21/2025,3/2/2025,9
+1160,39,M,Anthem,PPO,Diagnostic,265.28,0,Denied,Incorrect Coding,3/19/2025,3/28/2025,9
+1161,19,F,Humana,HMO,Restorative,623.23,623.23,Approved,None,2/25/2025,3/1/2025,4
+1162,24,M,MetLife,PPO,Diagnostic,581.02,0,Denied,Incorrect Coding,1/18/2025,1/29/2025,11
+1163,55,M,United Healthcare,HMO,Preventive,472.83,472.83,Approved,None,3/30/2025,4/7/2025,8
+1164,54,M,Humana,HMO,Diagnostic,227.6,227.6,Approved,None,1/17/2025,1/25/2025,8
+1165,39,M,United Healthcare,HMO,Diagnostic,329.25,329.25,Approved,None,1/17/2025,1/31/2025,14
+1166,37,M,Aetna,PPO,Preventive,431.78,431.78,Approved,None,1/18/2025,1/23/2025,5
+1167,64,M,United Healthcare,PPO,Diagnostic,615.78,615.78,Approved,None,2/9/2025,2/11/2025,2
+1168,61,M,MetLife,HMO,Restorative,189.31,189.31,Approved,None,1/6/2025,1/11/2025,5
+1169,43,F,Anthem,HMO,Restorative,525.29,525.29,Approved,None,2/28/2025,3/14/2025,14
+1170,23,M,Humana,HMO,Restorative,524.04,524.04,Approved,None,1/22/2025,1/28/2025,6
+1171,23,M,Delta Dental,PPO,Diagnostic,355.75,355.75,Approved,None,3/16/2025,3/25/2025,9
+1172,72,F,Anthem,PPO,Preventive,689.62,689.62,Approved,None,1/31/2025,2/9/2025,9
+1173,54,M,Delta Dental,HMO,Diagnostic,787.67,787.67,Approved,None,3/7/2025,3/12/2025,5
+1174,45,M,Humana,PPO,Diagnostic,742.18,742.18,Approved,None,2/20/2025,3/2/2025,10
+1175,19,M,United Healthcare,PPO,Diagnostic,489.73,489.73,Approved,None,2/20/2025,3/6/2025,14
+1176,61,M,United Healthcare,HMO,Preventive,243.55,0,Denied,Missing Documentation,3/9/2025,3/13/2025,4
+1177,37,M,Anthem,HMO,Preventive,455.33,455.33,Approved,None,2/16/2025,2/18/2025,2
+1178,43,F,Delta Dental,PPO,Diagnostic,637.45,637.45,Approved,None,1/11/2025,1/16/2025,5
+1179,30,M,Anthem,HMO,Diagnostic,472.81,472.81,Approved,None,2/19/2025,2/28/2025,9
+1180,27,F,United Healthcare,HMO,Diagnostic,484.02,484.02,Approved,None,1/2/2025,1/16/2025,14
+1181,57,F,Delta Dental,HMO,Diagnostic,666.91,666.91,Approved,None,3/14/2025,3/16/2025,2
+1182,26,F,Anthem,PPO,Restorative,516.95,516.95,Approved,None,2/4/2025,2/6/2025,2
+1183,22,F,Delta Dental,PPO,Preventive,681.43,0,Denied,Eligibility Issue,3/19/2025,3/25/2025,6
+1184,73,M,Humana,PPO,Diagnostic,793.65,793.65,Approved,None,2/4/2025,2/6/2025,2
+1185,57,M,Aetna,HMO,Diagnostic,605.12,605.12,Approved,None,3/13/2025,3/25/2025,12
+1186,58,M,Anthem,HMO,Diagnostic,625.35,0,Denied,Incorrect Coding,2/4/2025,2/10/2025,6
+1187,54,F,MetLife,HMO,Preventive,670.2,670.2,Approved,None,1/26/2025,1/31/2025,5
+1188,42,F,MetLife,PPO,Preventive,714.04,714.04,Approved,None,2/9/2025,2/18/2025,9
+1189,56,F,Anthem,PPO,Restorative,599.65,0,Denied,Coverage Expired,2/7/2025,2/9/2025,2
+1190,40,F,MetLife,PPO,Diagnostic,407.12,407.12,Approved,None,1/17/2025,1/19/2025,2
+1191,64,M,United Healthcare,PPO,Diagnostic,368.72,368.72,Approved,None,2/20/2025,2/28/2025,8
+1192,68,F,MetLife,HMO,Preventive,402.07,402.07,Approved,None,2/20/2025,3/1/2025,9
+1193,59,F,United Healthcare,HMO,Preventive,197.49,0,Denied,Missing Documentation,1/29/2025,1/31/2025,2
+1194,69,F,MetLife,HMO,Preventive,619.02,619.02,Approved,None,1/29/2025,2/5/2025,7
+1195,74,F,Humana,PPO,Restorative,318.21,318.21,Approved,None,2/24/2025,2/26/2025,2
+1196,79,M,United Healthcare,HMO,Preventive,243.18,0,Denied,Authorization Required,1/5/2025,1/17/2025,12
+1197,27,M,Delta Dental,PPO,Preventive,339.46,0,Denied,Missing Documentation,1/31/2025,2/5/2025,5
+1198,62,M,Delta Dental,HMO,Diagnostic,189.24,189.24,Approved,None,1/29/2025,2/7/2025,9
+1199,22,F,MetLife,HMO,Restorative,440.45,440.45,Approved,None,2/14/2025,2/17/2025,3
+1200,44,F,United Healthcare,HMO,Preventive,548.8,548.8,Approved,None,2/5/2025,2/16/2025,11
+1201,60,F,Aetna,PPO,Restorative,519.32,0,Denied,Coverage Expired,3/15/2025,3/24/2025,9
+1202,55,M,Humana,HMO,Diagnostic,259.15,259.15,Approved,None,3/31/2025,4/12/2025,12
+1203,29,M,Delta Dental,PPO,Diagnostic,738.3,738.3,Approved,None,3/23/2025,4/2/2025,10
+1204,50,M,Humana,HMO,Restorative,112.68,0,Denied,Eligibility Issue,3/17/2025,3/30/2025,13
+1205,53,M,Delta Dental,PPO,Restorative,743.13,0,Denied,Authorization Required,2/6/2025,2/15/2025,9
+1206,59,F,Anthem,HMO,Restorative,639.87,639.87,Approved,None,1/9/2025,1/16/2025,7
+1207,68,F,Delta Dental,PPO,Restorative,615.51,0,Denied,Eligibility Issue,3/27/2025,4/8/2025,12
+1208,40,F,Humana,PPO,Diagnostic,185.97,185.97,Approved,None,3/31/2025,4/5/2025,5
+1209,71,F,MetLife,PPO,Restorative,686.24,686.24,Approved,None,2/23/2025,3/3/2025,8
+1210,68,M,Anthem,PPO,Diagnostic,513.89,513.89,Approved,None,3/14/2025,3/20/2025,6
+1211,26,M,United Healthcare,PPO,Restorative,243.91,0,Denied,Eligibility Issue,1/26/2025,2/5/2025,10
+1212,52,F,United Healthcare,PPO,Restorative,378.72,378.72,Approved,None,3/16/2025,3/23/2025,7
+1213,19,M,United Healthcare,PPO,Restorative,425.99,425.99,Approved,None,1/17/2025,1/29/2025,12
+1214,76,F,Humana,HMO,Diagnostic,416.71,416.71,Approved,None,1/24/2025,2/3/2025,10
+1215,24,M,United Healthcare,HMO,Diagnostic,215.86,215.86,Approved,None,2/2/2025,2/4/2025,2
+1216,46,F,Delta Dental,PPO,Diagnostic,506.41,506.41,Approved,None,1/28/2025,1/31/2025,3
+1217,38,F,Aetna,PPO,Restorative,460.62,0,Denied,Incorrect Coding,2/18/2025,2/23/2025,5
+1218,71,M,Anthem,HMO,Diagnostic,702.44,702.44,Approved,None,2/18/2025,2/26/2025,8
+1219,18,F,United Healthcare,PPO,Restorative,316.96,316.96,Approved,None,2/20/2025,3/4/2025,12
+1220,73,M,Anthem,HMO,Restorative,728.64,728.64,Approved,None,1/29/2025,1/31/2025,2
+1221,62,F,Delta Dental,HMO,Diagnostic,364.41,0,Denied,Coverage Expired,1/19/2025,1/22/2025,3
+1222,18,F,MetLife,PPO,Preventive,642.87,642.87,Approved,None,3/7/2025,3/14/2025,7
+1223,45,F,Anthem,PPO,Preventive,436.76,436.76,Approved,None,2/20/2025,2/25/2025,5
+1224,18,F,Humana,PPO,Restorative,334.05,334.05,Approved,None,1/3/2025,1/14/2025,11
+1225,27,M,Humana,PPO,Diagnostic,728.2,728.2,Approved,None,3/28/2025,4/5/2025,8
+1226,45,F,Humana,HMO,Diagnostic,687.85,0,Denied,Missing Documentation,1/8/2025,1/10/2025,2
+1227,74,F,Anthem,PPO,Diagnostic,255.38,255.38,Approved,None,2/28/2025,3/14/2025,14
+1228,25,M,MetLife,PPO,Preventive,172.88,0,Denied,Authorization Required,3/8/2025,3/12/2025,4
+1229,50,M,MetLife,PPO,Preventive,489.71,0,Denied,Incorrect Coding,2/4/2025,2/13/2025,9
+1230,31,M,United Healthcare,PPO,Restorative,522.24,0,Denied,Coverage Expired,1/16/2025,1/21/2025,5
+1231,69,M,Humana,PPO,Preventive,567.66,567.66,Approved,None,2/24/2025,2/27/2025,3
+1232,24,F,MetLife,PPO,Preventive,543.27,0,Denied,Incorrect Coding,3/26/2025,3/30/2025,4
+1233,65,F,United Healthcare,PPO,Restorative,227,227,Approved,None,3/1/2025,3/4/2025,3
+1234,19,M,Humana,HMO,Diagnostic,737.44,737.44,Approved,None,1/11/2025,1/22/2025,11
+1235,19,F,Aetna,PPO,Preventive,354.14,354.14,Approved,None,1/20/2025,1/26/2025,6
+1236,54,M,Anthem,PPO,Preventive,386.59,386.59,Approved,None,2/22/2025,3/7/2025,13
+1237,52,F,Humana,HMO,Preventive,763.92,0,Denied,Incorrect Coding,1/24/2025,1/26/2025,2
+1238,27,M,United Healthcare,PPO,Restorative,496.04,0,Denied,Eligibility Issue,3/28/2025,3/30/2025,2
+1239,67,M,Delta Dental,PPO,Diagnostic,115.73,115.73,Approved,None,2/9/2025,2/12/2025,3
+1240,62,M,MetLife,HMO,Restorative,381.79,381.79,Approved,None,1/22/2025,2/3/2025,12
+1241,63,F,Aetna,PPO,Preventive,789.08,789.08,Approved,None,3/28/2025,4/3/2025,6
+1242,28,F,Humana,HMO,Restorative,675.81,675.81,Approved,None,2/11/2025,2/16/2025,5
+1243,58,F,Humana,HMO,Restorative,291.84,291.84,Approved,None,1/25/2025,2/1/2025,7
+1244,75,M,Anthem,HMO,Diagnostic,604.14,604.14,Approved,None,3/27/2025,4/2/2025,6
+1245,44,F,United Healthcare,PPO,Diagnostic,730.01,0,Denied,Incorrect Coding,2/9/2025,2/12/2025,3
+1246,29,F,Aetna,PPO,Restorative,543.17,543.17,Approved,None,1/10/2025,1/24/2025,14
+1247,34,F,Aetna,HMO,Preventive,393.14,393.14,Approved,None,2/15/2025,2/18/2025,3
+1248,77,M,MetLife,HMO,Diagnostic,771.04,771.04,Approved,None,2/22/2025,2/27/2025,5
+1249,68,F,Aetna,PPO,Restorative,271.74,271.74,Approved,None,2/9/2025,2/21/2025,12
+1250,53,M,Humana,PPO,Restorative,603.33,603.33,Approved,None,2/23/2025,2/26/2025,3
+1251,72,F,Humana,PPO,Restorative,564.57,0,Denied,Coverage Expired,3/10/2025,3/19/2025,9
+1252,50,F,Anthem,PPO,Diagnostic,288.94,288.94,Approved,None,3/24/2025,3/28/2025,4
+1253,69,M,Delta Dental,PPO,Restorative,136,136,Approved,None,3/14/2025,3/25/2025,11
+1254,19,M,Humana,PPO,Preventive,174.62,174.62,Approved,None,1/17/2025,1/19/2025,2
+1255,42,M,Humana,HMO,Preventive,593.45,593.45,Approved,None,1/25/2025,2/2/2025,8
+1256,52,M,MetLife,PPO,Restorative,673.37,0,Denied,Authorization Required,2/13/2025,2/17/2025,4
+1257,47,M,Anthem,PPO,Diagnostic,103.68,103.68,Approved,None,2/13/2025,2/25/2025,12
+1258,76,F,MetLife,HMO,Restorative,773.47,0,Denied,Incorrect Coding,2/26/2025,3/6/2025,8
+1259,66,M,Aetna,PPO,Preventive,229.59,229.59,Approved,None,3/29/2025,4/2/2025,4
+1260,25,F,MetLife,PPO,Restorative,547.26,0,Denied,Missing Documentation,3/21/2025,3/28/2025,7
+1261,25,F,Delta Dental,HMO,Diagnostic,274.77,274.77,Approved,None,1/15/2025,1/27/2025,12
+1262,43,M,Anthem,PPO,Restorative,136.12,136.12,Approved,None,2/1/2025,2/12/2025,11
+1263,33,F,Anthem,PPO,Diagnostic,747.67,747.67,Approved,None,3/26/2025,4/2/2025,7
+1264,75,M,Aetna,HMO,Preventive,319,319,Approved,None,1/7/2025,1/17/2025,10
+1265,68,M,MetLife,PPO,Preventive,747.08,0,Denied,Authorization Required,3/28/2025,4/11/2025,14
+1266,35,M,United Healthcare,PPO,Preventive,621.55,621.55,Approved,None,1/18/2025,1/30/2025,12
+1267,59,M,Anthem,HMO,Preventive,551.18,551.18,Approved,None,1/24/2025,1/28/2025,4
+1268,61,M,MetLife,PPO,Preventive,184.4,184.4,Approved,None,2/6/2025,2/18/2025,12
+1269,57,M,Anthem,PPO,Restorative,408.72,408.72,Approved,None,2/8/2025,2/17/2025,9
+1270,66,F,Humana,PPO,Restorative,476.88,476.88,Approved,None,1/13/2025,1/16/2025,3
+1271,50,M,MetLife,PPO,Restorative,720.18,720.18,Approved,None,3/7/2025,3/15/2025,8
+1272,52,M,Anthem,HMO,Diagnostic,709.07,709.07,Approved,None,1/13/2025,1/27/2025,14
+1273,35,F,MetLife,PPO,Restorative,757.35,0,Denied,Missing Documentation,2/8/2025,2/13/2025,5
+1274,46,F,Delta Dental,PPO,Restorative,637.03,637.03,Approved,None,2/26/2025,3/7/2025,9
+1275,61,M,Delta Dental,PPO,Preventive,788.86,0,Denied,Missing Documentation,1/25/2025,2/2/2025,8
+1276,37,F,Anthem,PPO,Diagnostic,616.31,616.31,Approved,None,1/3/2025,1/17/2025,14
+1277,31,F,Anthem,HMO,Restorative,307.9,0,Denied,Missing Documentation,1/18/2025,1/24/2025,6
+1278,42,M,Humana,PPO,Restorative,294.09,0,Denied,Coverage Expired,3/20/2025,3/30/2025,10
+1279,32,M,MetLife,HMO,Diagnostic,369.03,369.03,Approved,None,1/12/2025,1/24/2025,12
+1280,75,F,Humana,PPO,Diagnostic,658.59,658.59,Approved,None,3/11/2025,3/19/2025,8
+1281,73,F,Delta Dental,PPO,Preventive,718.94,718.94,Approved,None,3/3/2025,3/17/2025,14
+1282,51,M,Humana,HMO,Diagnostic,216.92,0,Denied,Eligibility Issue,2/28/2025,3/9/2025,9
+1283,37,M,MetLife,PPO,Preventive,686.48,686.48,Approved,None,3/15/2025,3/27/2025,12
+1284,51,M,United Healthcare,HMO,Preventive,368.86,368.86,Approved,None,1/3/2025,1/12/2025,9
+1285,23,M,Anthem,HMO,Restorative,660.54,660.54,Approved,None,3/28/2025,3/30/2025,2
+1286,26,F,Anthem,PPO,Preventive,749.43,0,Denied,Missing Documentation,3/2/2025,3/14/2025,12
+1287,59,F,Anthem,HMO,Restorative,460.67,460.67,Approved,None,1/17/2025,1/26/2025,9
+1288,20,F,Aetna,PPO,Preventive,671.08,671.08,Approved,None,3/30/2025,4/9/2025,10
+1289,21,F,United Healthcare,HMO,Preventive,506.06,506.06,Approved,None,2/25/2025,3/1/2025,4
+1290,76,M,Aetna,HMO,Restorative,190.66,0,Denied,Eligibility Issue,1/25/2025,1/28/2025,3
+1291,29,F,Anthem,PPO,Preventive,124.8,124.8,Approved,None,1/25/2025,1/31/2025,6
+1292,28,M,Anthem,HMO,Diagnostic,160.89,160.89,Approved,None,3/20/2025,3/27/2025,7
+1293,25,F,Aetna,PPO,Restorative,587,587,Approved,None,1/18/2025,1/25/2025,7
+1294,54,F,Delta Dental,HMO,Diagnostic,254.13,254.13,Approved,None,3/10/2025,3/24/2025,14
+1295,34,M,United Healthcare,HMO,Diagnostic,143.06,0,Denied,Coverage Expired,3/3/2025,3/17/2025,14
+1296,68,F,MetLife,HMO,Restorative,677.28,677.28,Approved,None,2/9/2025,2/21/2025,12
+1297,30,M,Humana,HMO,Preventive,286.92,0,Denied,Incorrect Coding,1/19/2025,1/28/2025,9
+1298,45,M,Humana,HMO,Diagnostic,695.41,0,Denied,Incorrect Coding,2/10/2025,2/24/2025,14
+1299,60,F,Anthem,PPO,Restorative,267.08,0,Denied,Missing Documentation,3/4/2025,3/16/2025,12
+1300,55,F,Aetna,PPO,Restorative,232.46,0,Denied,Coverage Expired,2/14/2025,2/25/2025,11
+1301,74,M,Humana,PPO,Diagnostic,120.47,0,Denied,Coverage Expired,1/10/2025,1/22/2025,12
+1302,70,M,Anthem,HMO,Restorative,620.46,620.46,Approved,None,1/2/2025,1/16/2025,14
+1303,46,F,Humana,PPO,Preventive,281.08,281.08,Approved,None,1/13/2025,1/25/2025,12
+1304,66,M,United Healthcare,PPO,Diagnostic,491.89,491.89,Approved,None,3/1/2025,3/10/2025,9
+1305,62,M,Delta Dental,HMO,Diagnostic,645.89,645.89,Approved,None,1/30/2025,2/7/2025,8
+1306,27,M,United Healthcare,PPO,Diagnostic,402.57,0,Denied,Missing Documentation,1/28/2025,2/10/2025,13
+1307,32,M,Anthem,HMO,Preventive,752.42,752.42,Approved,None,3/9/2025,3/14/2025,5
+1308,49,F,Humana,HMO,Restorative,639.6,0,Denied,Authorization Required,3/5/2025,3/7/2025,2
+1309,29,F,MetLife,HMO,Restorative,147.15,147.15,Approved,None,3/6/2025,3/13/2025,7
+1310,43,M,Delta Dental,HMO,Diagnostic,152.29,0,Denied,Authorization Required,1/14/2025,1/28/2025,14
+1311,29,M,Delta Dental,HMO,Diagnostic,624.76,624.76,Approved,None,3/17/2025,3/25/2025,8
+1312,46,M,United Healthcare,HMO,Restorative,115.49,115.49,Approved,None,3/20/2025,3/24/2025,4
+1313,28,F,Aetna,PPO,Preventive,578.31,578.31,Approved,None,2/15/2025,2/18/2025,3
+1314,46,F,United Healthcare,PPO,Preventive,761.01,761.01,Approved,None,2/8/2025,2/16/2025,8
+1315,46,M,MetLife,HMO,Diagnostic,585.58,585.58,Approved,None,1/2/2025,1/7/2025,5
+1316,39,F,MetLife,PPO,Preventive,191.93,0,Denied,Missing Documentation,2/25/2025,3/10/2025,13
+1317,46,M,Delta Dental,PPO,Diagnostic,760.53,760.53,Approved,None,2/28/2025,3/5/2025,5
+1318,23,M,Anthem,HMO,Preventive,632.07,632.07,Approved,None,1/1/2025,1/12/2025,11
+1319,77,M,Anthem,HMO,Restorative,607.1,0,Denied,Eligibility Issue,2/4/2025,2/6/2025,2
+1320,42,F,Delta Dental,HMO,Diagnostic,600.45,600.45,Approved,None,3/21/2025,4/2/2025,12
+1321,25,M,Humana,PPO,Preventive,211.47,211.47,Approved,None,2/22/2025,3/3/2025,9
+1322,32,M,United Healthcare,PPO,Restorative,417.59,417.59,Approved,None,3/12/2025,3/16/2025,4
+1323,46,F,Anthem,HMO,Preventive,191.87,191.87,Approved,None,3/1/2025,3/12/2025,11
+1324,20,F,Delta Dental,HMO,Diagnostic,229.82,229.82,Approved,None,3/19/2025,3/27/2025,8
+1325,34,M,Delta Dental,PPO,Diagnostic,525.11,525.11,Approved,None,1/9/2025,1/16/2025,7
+1326,65,M,Humana,PPO,Preventive,444.12,444.12,Approved,None,1/2/2025,1/11/2025,9
+1327,25,F,United Healthcare,PPO,Preventive,317.25,317.25,Approved,None,3/13/2025,3/19/2025,6
+1328,35,M,Delta Dental,PPO,Restorative,576.32,576.32,Approved,None,2/7/2025,2/19/2025,12
+1329,62,M,Anthem,HMO,Diagnostic,629.94,0,Denied,Coverage Expired,2/10/2025,2/19/2025,9
+1330,28,F,Anthem,HMO,Diagnostic,436.35,436.35,Approved,None,1/17/2025,1/30/2025,13
+1331,74,F,Aetna,PPO,Diagnostic,499.63,499.63,Approved,None,2/23/2025,3/2/2025,7
+1332,45,M,Anthem,HMO,Diagnostic,591.73,591.73,Approved,None,2/1/2025,2/4/2025,3
+1333,77,M,Aetna,HMO,Diagnostic,150.69,150.69,Approved,None,3/18/2025,3/20/2025,2
+1334,30,F,MetLife,PPO,Preventive,155,155,Approved,None,3/7/2025,3/14/2025,7
+1335,56,M,Delta Dental,HMO,Diagnostic,240.6,240.6,Approved,None,1/15/2025,1/18/2025,3
+1336,59,F,Humana,HMO,Diagnostic,217.24,217.24,Approved,None,3/16/2025,3/30/2025,14
+1337,20,M,MetLife,PPO,Restorative,727.35,727.35,Approved,None,3/14/2025,3/22/2025,8
+1338,48,M,United Healthcare,HMO,Diagnostic,478.91,0,Denied,Eligibility Issue,1/8/2025,1/17/2025,9
+1339,67,M,Aetna,PPO,Restorative,537.71,0,Denied,Authorization Required,1/7/2025,1/19/2025,12
+1340,37,F,Humana,HMO,Preventive,487.1,487.1,Approved,None,1/22/2025,2/2/2025,11
+1341,20,M,MetLife,PPO,Restorative,128.53,128.53,Approved,None,1/14/2025,1/26/2025,12
+1342,35,F,Humana,PPO,Restorative,142.25,142.25,Approved,None,1/13/2025,1/23/2025,10
+1343,62,M,Aetna,PPO,Preventive,531.02,531.02,Approved,None,2/14/2025,2/23/2025,9
+1344,46,F,MetLife,HMO,Restorative,652.79,652.79,Approved,None,2/20/2025,3/5/2025,13
+1345,35,F,United Healthcare,PPO,Restorative,114.6,114.6,Approved,None,2/6/2025,2/15/2025,9
+1346,58,F,Aetna,HMO,Preventive,445.29,445.29,Approved,None,2/4/2025,2/18/2025,14
+1347,46,M,Aetna,HMO,Restorative,392.88,392.88,Approved,None,1/7/2025,1/20/2025,13
+1348,66,F,Delta Dental,HMO,Preventive,707.79,0,Denied,Incorrect Coding,3/2/2025,3/11/2025,9
+1349,37,M,MetLife,PPO,Restorative,540.14,0,Denied,Coverage Expired,1/20/2025,2/2/2025,13
+1350,41,M,Delta Dental,PPO,Preventive,480.31,480.31,Approved,None,2/5/2025,2/16/2025,11
+1351,70,M,Anthem,PPO,Diagnostic,376.86,376.86,Approved,None,3/20/2025,3/23/2025,3
+1352,53,M,United Healthcare,HMO,Diagnostic,395.2,395.2,Approved,None,2/27/2025,3/6/2025,7
+1353,78,F,United Healthcare,PPO,Diagnostic,247.46,247.46,Approved,None,2/9/2025,2/15/2025,6
+1354,32,F,Anthem,PPO,Diagnostic,265.05,0,Denied,Eligibility Issue,3/28/2025,4/8/2025,11
+1355,61,F,MetLife,PPO,Diagnostic,360.99,360.99,Approved,None,2/6/2025,2/12/2025,6
+1356,55,F,Humana,HMO,Diagnostic,444.59,444.59,Approved,None,3/1/2025,3/15/2025,14
+1357,64,M,MetLife,HMO,Preventive,515.04,515.04,Approved,None,3/25/2025,3/28/2025,3
+1358,56,M,Anthem,PPO,Restorative,214.47,214.47,Approved,None,1/28/2025,1/31/2025,3
+1359,52,F,MetLife,HMO,Preventive,559.72,559.72,Approved,None,2/9/2025,2/22/2025,13
+1360,73,F,Delta Dental,PPO,Diagnostic,377.66,377.66,Approved,None,1/31/2025,2/12/2025,12
+1361,27,F,United Healthcare,PPO,Diagnostic,151.45,151.45,Approved,None,3/15/2025,3/29/2025,14
+1362,27,M,Humana,PPO,Restorative,568.57,568.57,Approved,None,1/5/2025,1/10/2025,5
+1363,25,F,Delta Dental,PPO,Preventive,532,0,Denied,Authorization Required,3/5/2025,3/12/2025,7
+1364,37,F,MetLife,PPO,Diagnostic,365.55,365.55,Approved,None,2/16/2025,2/22/2025,6
+1365,29,M,Delta Dental,HMO,Diagnostic,432.24,0,Denied,Eligibility Issue,2/13/2025,2/22/2025,9
+1366,45,F,United Healthcare,PPO,Restorative,704.95,704.95,Approved,None,3/2/2025,3/7/2025,5
+1367,67,M,Aetna,HMO,Diagnostic,790.69,790.69,Approved,None,2/6/2025,2/11/2025,5
+1368,43,M,Delta Dental,PPO,Preventive,127.54,127.54,Approved,None,3/11/2025,3/17/2025,6
+1369,70,F,Delta Dental,PPO,Restorative,161.99,161.99,Approved,None,2/20/2025,3/5/2025,13
+1370,59,M,Anthem,PPO,Diagnostic,378.17,378.17,Approved,None,2/12/2025,2/15/2025,3
+1371,42,F,Aetna,PPO,Diagnostic,547.38,0,Denied,Missing Documentation,2/25/2025,3/9/2025,12
+1372,67,F,Aetna,HMO,Preventive,339.86,339.86,Approved,None,1/23/2025,2/6/2025,14
+1373,69,M,Anthem,HMO,Restorative,593.28,593.28,Approved,None,1/8/2025,1/11/2025,3
+1374,38,M,MetLife,HMO,Restorative,165.73,165.73,Approved,None,1/5/2025,1/12/2025,7
+1375,64,M,Aetna,HMO,Preventive,584.84,0,Denied,Coverage Expired,3/31/2025,4/12/2025,12
+1376,27,F,Delta Dental,PPO,Preventive,112.26,112.26,Approved,None,1/26/2025,2/4/2025,9
+1377,64,M,United Healthcare,HMO,Diagnostic,499.43,499.43,Approved,None,3/13/2025,3/23/2025,10
+1378,63,M,Delta Dental,PPO,Preventive,743.07,743.07,Approved,None,1/31/2025,2/6/2025,6
+1379,65,F,United Healthcare,PPO,Preventive,555.86,555.86,Approved,None,3/7/2025,3/10/2025,3
+1380,23,M,Delta Dental,PPO,Diagnostic,322.68,0,Denied,Authorization Required,3/30/2025,4/13/2025,14
+1381,26,M,MetLife,PPO,Preventive,163.34,163.34,Approved,None,3/16/2025,3/21/2025,5
+1382,51,F,MetLife,HMO,Diagnostic,382.9,382.9,Approved,None,1/19/2025,1/26/2025,7
+1383,51,F,Delta Dental,PPO,Diagnostic,633.6,0,Denied,Coverage Expired,3/24/2025,4/7/2025,14
+1384,28,F,Delta Dental,HMO,Diagnostic,362.97,362.97,Approved,None,3/12/2025,3/22/2025,10
+1385,38,F,Aetna,PPO,Diagnostic,327.21,327.21,Approved,None,3/12/2025,3/18/2025,6
+1386,36,F,Humana,HMO,Preventive,371.99,371.99,Approved,None,2/18/2025,2/20/2025,2
+1387,52,M,United Healthcare,HMO,Diagnostic,259.09,259.09,Approved,None,3/13/2025,3/24/2025,11
+1388,19,F,Humana,PPO,Preventive,424.45,424.45,Approved,None,1/26/2025,2/4/2025,9
+1389,65,M,Anthem,PPO,Preventive,693.02,0,Denied,Eligibility Issue,1/26/2025,2/5/2025,10
+1390,29,M,Anthem,PPO,Preventive,204.29,204.29,Approved,None,3/20/2025,4/2/2025,13
+1391,53,F,Anthem,PPO,Diagnostic,525.53,0,Denied,Missing Documentation,3/11/2025,3/14/2025,3
+1392,61,M,Humana,HMO,Preventive,768.87,768.87,Approved,None,1/23/2025,2/4/2025,12
+1393,72,F,United Healthcare,HMO,Preventive,727.7,727.7,Approved,None,1/15/2025,1/25/2025,10
+1394,53,M,Anthem,PPO,Preventive,748.92,748.92,Approved,None,1/21/2025,2/4/2025,14
+1395,39,M,Anthem,HMO,Preventive,236.19,236.19,Approved,None,3/9/2025,3/15/2025,6
+1396,69,M,Delta Dental,PPO,Preventive,569.07,0,Denied,Eligibility Issue,1/28/2025,2/1/2025,4
+1397,25,M,MetLife,HMO,Restorative,317.92,317.92,Approved,None,1/18/2025,1/21/2025,3
+1398,66,F,Delta Dental,HMO,Diagnostic,783.71,0,Denied,Incorrect Coding,3/16/2025,3/24/2025,8
+1399,48,F,MetLife,PPO,Preventive,701.59,0,Denied,Coverage Expired,1/31/2025,2/8/2025,8
+1400,73,M,Aetna,HMO,Restorative,655.39,655.39,Approved,None,2/25/2025,3/2/2025,5
+1401,37,M,Anthem,HMO,Diagnostic,438.48,0,Denied,Incorrect Coding,1/1/2025,1/14/2025,13
+1402,73,F,Delta Dental,PPO,Diagnostic,468.55,468.55,Approved,None,1/13/2025,1/21/2025,8
+1403,39,M,Delta Dental,HMO,Diagnostic,673.43,0,Denied,Eligibility Issue,1/9/2025,1/20/2025,11
+1404,26,M,Aetna,HMO,Restorative,552.62,552.62,Approved,None,2/11/2025,2/20/2025,9
+1405,41,M,Aetna,HMO,Diagnostic,347.39,347.39,Approved,None,2/6/2025,2/11/2025,5
+1406,67,M,Delta Dental,HMO,Restorative,612.37,0,Denied,Incorrect Coding,2/8/2025,2/19/2025,11
+1407,42,M,Delta Dental,HMO,Preventive,166.87,166.87,Approved,None,2/24/2025,2/27/2025,3
+1408,22,F,Delta Dental,PPO,Preventive,217.61,0,Denied,Authorization Required,2/2/2025,2/10/2025,8
+1409,38,F,Anthem,HMO,Preventive,167,167,Approved,None,1/15/2025,1/19/2025,4
+1410,45,M,United Healthcare,PPO,Restorative,244.33,244.33,Approved,None,3/14/2025,3/28/2025,14
+1411,78,M,United Healthcare,HMO,Restorative,140.92,140.92,Approved,None,3/5/2025,3/9/2025,4
+1412,24,F,United Healthcare,PPO,Preventive,586.6,586.6,Approved,None,2/8/2025,2/18/2025,10
+1413,66,M,United Healthcare,HMO,Diagnostic,111.07,111.07,Approved,None,2/15/2025,2/19/2025,4
+1414,21,M,Humana,PPO,Diagnostic,607.04,607.04,Approved,None,2/8/2025,2/22/2025,14
+1415,63,M,Aetna,PPO,Restorative,285.43,285.43,Approved,None,2/5/2025,2/9/2025,4
+1416,26,M,United Healthcare,PPO,Preventive,326.36,326.36,Approved,None,2/10/2025,2/18/2025,8
+1417,21,M,Anthem,PPO,Restorative,409.69,0,Denied,Missing Documentation,3/1/2025,3/7/2025,6
+1418,61,M,United Healthcare,HMO,Preventive,263.6,263.6,Approved,None,3/13/2025,3/16/2025,3
+1419,20,M,Delta Dental,PPO,Diagnostic,473.07,473.07,Approved,None,1/3/2025,1/10/2025,7
+1420,23,M,MetLife,PPO,Preventive,136.64,136.64,Approved,None,3/22/2025,3/26/2025,4
+1421,51,M,United Healthcare,PPO,Preventive,412.45,412.45,Approved,None,1/22/2025,2/4/2025,13
+1422,75,M,MetLife,PPO,Diagnostic,770.34,770.34,Approved,None,1/31/2025,2/10/2025,10
+1423,72,F,Anthem,PPO,Diagnostic,475.08,475.08,Approved,None,2/24/2025,3/9/2025,13
+1424,34,F,Anthem,HMO,Restorative,310.6,0,Denied,Incorrect Coding,1/3/2025,1/17/2025,14
+1425,40,F,Aetna,HMO,Preventive,379.52,379.52,Approved,None,1/5/2025,1/10/2025,5
+1426,57,M,United Healthcare,PPO,Restorative,638.02,638.02,Approved,None,1/30/2025,2/5/2025,6
+1427,37,F,MetLife,HMO,Restorative,536.51,536.51,Approved,None,2/1/2025,2/3/2025,2
+1428,70,M,United Healthcare,PPO,Diagnostic,678.25,0,Denied,Eligibility Issue,1/14/2025,1/19/2025,5
+1429,50,F,MetLife,PPO,Diagnostic,259.15,259.15,Approved,None,3/26/2025,3/29/2025,3
+1430,44,M,Delta Dental,PPO,Preventive,267.34,267.34,Approved,None,3/8/2025,3/13/2025,5
+1431,79,F,Anthem,HMO,Diagnostic,413.04,413.04,Approved,None,2/24/2025,3/3/2025,7
+1432,52,M,MetLife,HMO,Diagnostic,650.39,650.39,Approved,None,3/1/2025,3/7/2025,6
+1433,69,M,Delta Dental,PPO,Preventive,245.96,0,Denied,Coverage Expired,2/11/2025,2/18/2025,7
+1434,35,M,Delta Dental,PPO,Preventive,539.57,539.57,Approved,None,1/30/2025,2/6/2025,7
+1435,20,F,Aetna,HMO,Diagnostic,653.02,653.02,Approved,None,3/14/2025,3/20/2025,6
+1436,52,F,Delta Dental,PPO,Preventive,221.47,221.47,Approved,None,3/23/2025,3/28/2025,5
+1437,35,M,Delta Dental,PPO,Restorative,548.68,0,Denied,Eligibility Issue,1/25/2025,2/8/2025,14
+1438,71,M,United Healthcare,HMO,Restorative,319.61,319.61,Approved,None,3/6/2025,3/13/2025,7
+1439,63,F,United Healthcare,HMO,Preventive,222.39,222.39,Approved,None,2/10/2025,2/17/2025,7
+1440,42,F,Aetna,HMO,Diagnostic,566.41,566.41,Approved,None,1/21/2025,1/24/2025,3
+1441,21,F,United Healthcare,PPO,Diagnostic,194.62,0,Denied,Coverage Expired,3/1/2025,3/14/2025,13
+1442,49,F,MetLife,HMO,Preventive,185.42,185.42,Approved,None,1/31/2025,2/5/2025,5
+1443,35,M,Humana,PPO,Restorative,294.43,0,Denied,Incorrect Coding,2/1/2025,2/15/2025,14
+1444,60,M,MetLife,HMO,Preventive,533.71,533.71,Approved,None,3/24/2025,3/28/2025,4
+1445,22,M,Delta Dental,HMO,Diagnostic,646.53,646.53,Approved,None,1/2/2025,1/14/2025,12
+1446,67,M,Delta Dental,PPO,Preventive,140.45,140.45,Approved,None,3/14/2025,3/22/2025,8
+1447,36,F,Aetna,PPO,Restorative,219.47,219.47,Approved,None,1/28/2025,2/1/2025,4
+1448,24,F,Anthem,HMO,Diagnostic,584.51,584.51,Approved,None,1/4/2025,1/9/2025,5
+1449,56,F,Aetna,PPO,Restorative,260.23,260.23,Approved,None,2/21/2025,3/7/2025,14
+1450,69,F,United Healthcare,PPO,Preventive,559.01,0,Denied,Authorization Required,2/19/2025,2/25/2025,6
+1451,69,F,Delta Dental,PPO,Preventive,383.36,383.36,Approved,None,1/7/2025,1/19/2025,12
+1452,45,M,MetLife,HMO,Restorative,437.14,437.14,Approved,None,3/27/2025,4/2/2025,6
+1453,79,F,MetLife,HMO,Preventive,274.01,274.01,Approved,None,1/21/2025,1/28/2025,7
+1454,55,M,MetLife,HMO,Preventive,281.87,0,Denied,Eligibility Issue,2/27/2025,3/8/2025,9
+1455,56,F,Delta Dental,PPO,Restorative,533.26,533.26,Approved,None,3/31/2025,4/3/2025,3
+1456,62,F,MetLife,PPO,Restorative,783.11,0,Denied,Eligibility Issue,2/14/2025,2/19/2025,5
+1457,34,M,Delta Dental,PPO,Restorative,176.82,176.82,Approved,None,3/4/2025,3/10/2025,6
+1458,69,M,Humana,HMO,Restorative,286.21,286.21,Approved,None,3/9/2025,3/12/2025,3
+1459,69,M,United Healthcare,PPO,Preventive,270.43,270.43,Approved,None,2/21/2025,3/7/2025,14
+1460,55,F,Aetna,PPO,Diagnostic,374.68,0,Denied,Incorrect Coding,3/5/2025,3/7/2025,2
+1461,73,M,Aetna,PPO,Restorative,320.78,320.78,Approved,None,3/1/2025,3/15/2025,14
+1462,50,F,United Healthcare,PPO,Restorative,688.61,688.61,Approved,None,3/1/2025,3/10/2025,9
+1463,38,M,Humana,HMO,Diagnostic,677.59,677.59,Approved,None,1/8/2025,1/20/2025,12
+1464,39,F,United Healthcare,HMO,Diagnostic,545.67,545.67,Approved,None,3/1/2025,3/9/2025,8
+1465,41,F,United Healthcare,PPO,Preventive,717.72,717.72,Approved,None,2/13/2025,2/15/2025,2
+1466,40,F,Anthem,HMO,Diagnostic,576.16,576.16,Approved,None,3/28/2025,4/9/2025,12
+1467,18,M,MetLife,PPO,Preventive,150.46,150.46,Approved,None,1/24/2025,1/26/2025,2
+1468,22,F,United Healthcare,PPO,Preventive,456.01,456.01,Approved,None,1/31/2025,2/5/2025,5
+1469,28,F,Humana,PPO,Diagnostic,779.52,0,Denied,Authorization Required,1/28/2025,2/1/2025,4
+1470,60,M,Anthem,HMO,Diagnostic,388.49,388.49,Approved,None,1/8/2025,1/19/2025,11
+1471,55,M,Aetna,HMO,Restorative,157.83,157.83,Approved,None,3/22/2025,3/31/2025,9
+1472,57,M,Anthem,HMO,Diagnostic,537.26,537.26,Approved,None,2/19/2025,2/23/2025,4
+1473,66,M,MetLife,PPO,Diagnostic,278.79,278.79,Approved,None,2/10/2025,2/20/2025,10
+1474,75,F,Anthem,PPO,Preventive,434.78,0,Denied,Authorization Required,1/10/2025,1/16/2025,6
+1475,53,M,Humana,PPO,Preventive,304.98,0,Denied,Incorrect Coding,1/13/2025,1/19/2025,6
+1476,49,F,MetLife,HMO,Diagnostic,623.65,0,Denied,Coverage Expired,1/11/2025,1/22/2025,11
+1477,32,M,Anthem,PPO,Restorative,177.57,177.57,Approved,None,3/14/2025,3/24/2025,10
+1478,57,M,MetLife,PPO,Restorative,402.45,402.45,Approved,None,3/30/2025,4/2/2025,3
+1479,39,F,Aetna,HMO,Diagnostic,291.65,0,Denied,Authorization Required,2/13/2025,2/17/2025,4
+1480,63,M,MetLife,PPO,Preventive,108.9,0,Denied,Missing Documentation,2/1/2025,2/9/2025,8
+1481,56,M,MetLife,HMO,Preventive,692.56,0,Denied,Eligibility Issue,1/18/2025,1/24/2025,6
+1482,30,F,Delta Dental,PPO,Diagnostic,254.74,0,Denied,Coverage Expired,2/15/2025,2/24/2025,9
+1483,63,M,Aetna,HMO,Diagnostic,643.51,643.51,Approved,None,3/16/2025,3/23/2025,7
+1484,39,M,Aetna,PPO,Restorative,789.27,0,Denied,Authorization Required,1/29/2025,2/12/2025,14
+1485,35,M,MetLife,PPO,Restorative,175.56,175.56,Approved,None,2/21/2025,3/5/2025,12
+1486,67,M,Humana,HMO,Diagnostic,249.46,249.46,Approved,None,3/29/2025,4/11/2025,13
+1487,30,M,Delta Dental,HMO,Diagnostic,389.39,0,Denied,Coverage Expired,2/25/2025,3/1/2025,4
+1488,71,M,Delta Dental,HMO,Restorative,495.52,495.52,Approved,None,2/8/2025,2/21/2025,13
+1489,64,M,United Healthcare,HMO,Restorative,714,714,Approved,None,1/8/2025,1/19/2025,11
+1490,75,F,MetLife,PPO,Preventive,106.53,106.53,Approved,None,1/5/2025,1/9/2025,4
+1491,18,M,Aetna,HMO,Preventive,294.53,294.53,Approved,None,3/5/2025,3/16/2025,11
+1492,51,F,Aetna,HMO,Diagnostic,242.82,242.82,Approved,None,2/15/2025,2/23/2025,8
+1493,44,M,Humana,HMO,Diagnostic,231.62,231.62,Approved,None,1/13/2025,1/23/2025,10
+1494,69,F,Humana,PPO,Restorative,466.91,0,Denied,Eligibility Issue,2/27/2025,3/6/2025,7
+1495,29,F,MetLife,HMO,Restorative,622.01,622.01,Approved,None,2/3/2025,2/9/2025,6
+1496,74,M,Delta Dental,PPO,Restorative,574.87,0,Denied,Incorrect Coding,3/11/2025,3/20/2025,9
+1497,36,M,Aetna,PPO,Restorative,797.43,797.43,Approved,None,1/4/2025,1/9/2025,5
+1498,27,M,MetLife,PPO,Restorative,720.34,720.34,Approved,None,2/6/2025,2/13/2025,7
+1499,38,M,MetLife,PPO,Preventive,101.32,101.32,Approved,None,3/15/2025,3/22/2025,7
